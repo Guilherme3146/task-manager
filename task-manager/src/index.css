@@ -127,8 +127,12 @@
     font-weight: 100;
     font-style: italic;
   }
-}
 
-@theme {
-  --font-sans: "Poppins", sans-serif;
+  @theme {
+    --font-sans: "Poppins", sans-serif;
+  }
+
+  body {
+    @apply bg-[#f8f8f8];
+  }
 }
