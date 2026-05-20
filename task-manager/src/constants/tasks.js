@@ -32,7 +32,7 @@ const TASKS = [
     title: "Assistir série",
     description: "Assistir série para se divertir",
     time: "night",
-    status: "not1_started",
+    status: "not_started",
   },
   {
     id: 6,
